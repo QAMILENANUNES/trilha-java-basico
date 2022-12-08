@@ -11,6 +11,25 @@ public class OperadorUnario {
         // convertendo para positivo
         numero = numero * -1;
         System.out.println(numero);
+
+        // incremento
+        int numer = 5;
+        // x repetição
+        // numer++;
+        // numer = numer + 1;
+        // System.out.println(numer++);
+        // System.out.println(numer);
+
+        System.out.println(numer--);
+        System.out.println(numer);
+
+        // negação
+        boolean variavel = false;
+        // variavel em memória
+        variavel = !variavel;
+        // reatribuição de variavel negando-a
+        System.out.println(variavel);
+
     }
 
 }
