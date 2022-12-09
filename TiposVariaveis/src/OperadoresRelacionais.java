@@ -5,7 +5,7 @@ public class OperadoresRelacionais {
 
         boolean simNao = numero1 == numero2;
 
-        System.out.println("numeroUm é igual a numero 2" + simNao);
+        System.out.println("numero 1 é igual a numero 2 " + simNao);
 
         // if (numero1 > numero2)
         // System.out.println("numero 1 maior que numero 2");
