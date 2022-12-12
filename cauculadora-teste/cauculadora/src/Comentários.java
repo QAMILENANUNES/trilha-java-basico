@@ -24,6 +24,8 @@ public class Comentários {
 
     public static void main(String[] args) {
 
+    }
+
     /*
      * o que não fazer:
      * este método foi elaborado as pressas
@@ -41,3 +43,5 @@ public class Comentários {
         return r;
 
     }
+}
+    
